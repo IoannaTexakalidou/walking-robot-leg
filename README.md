@@ -2,9 +2,9 @@
 
 Ioanna Texakalidou, Integrated Master's thesis, International Hellenic University, 2026
 
-The goal was a robot leg that walks like a real dog. I started from motion capture data of a Dobermann walking (31 frames, one full gait cycle) and asked a simple question: which way of driving the joints reproduces that motion best, and can it actually be built?
+The goal was a robot leg that walks like a real dog. I started from a 3D skeleton animation of a Dobermann walking (glTF, 31 frames, one full gait cycle) and asked a simple question: which way of driving the joints reproduces that motion best, and can it actually be built?
 
-![Motion capture of one gait cycle](figures/mocap_dog.gif)
+![Skeleton animation of one gait cycle](figures/mocap_dog.gif)
 
 ## Four ways to drive the same leg
 
